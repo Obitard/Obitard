@@ -2,7 +2,8 @@
 
 ---
 
-Welcome to my GitHub!  
+Welcome to my page!  
+I'm a Fullstack developer 🚀
 
 ## Things I code with
 
@@ -21,3 +22,11 @@ Welcome to my GitHub!
   <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
   <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-%23000000.svg?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight)
+
