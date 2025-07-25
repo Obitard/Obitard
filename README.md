@@ -3,7 +3,7 @@
 ---
 
 Welcome to my Github!  
-I'm a Fullstack developer 
+I'm a just a random developer 
 
 ## Things I code with
 
