@@ -2,7 +2,7 @@
 
 ---
 
-Welcome to my page!  
+Welcome to my Github!  
 I'm a Fullstack developer 
 
 ## Things I code with
