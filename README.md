@@ -3,7 +3,7 @@
 ---
 
 Welcome to my page!  
-I'm a Fullstack developer 🚀
+I'm a Fullstack developer 
 
 ## Things I code with
 
