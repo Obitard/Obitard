@@ -21,5 +21,5 @@ I'm a just a random developer
   <img alt="Supabase" src="https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 ---
-![Snake animation](https://raw.githubusercontent.com/Obitard/Obitard/output/github-contribution-grid-snake.svg)
+
 
