@@ -20,6 +20,6 @@ I'm a just a random developer
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Supabase" src="https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
----
+
 
 
