@@ -21,4 +21,4 @@ I'm a just a random developer
   <img alt="Supabase" src="https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 ---
-![Trophies](https://github-profile-trophy.vercel.app/?username=Obitard&theme=onedark&no-frame=true&row=1)
+![Snake animation](https://github.com/Obitard/Obitard/blob/output/github-contribution-grid-snake.svg)
